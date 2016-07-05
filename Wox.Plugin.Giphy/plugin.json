@@ -1,0 +1,12 @@
+{
+    "ID":"cfc886d0-717d-4b54-ae82-52034e323c7f",
+    "ActionKeyword":"/giphy",
+    "Name":"Giphy",
+    "Description":"Search Giphy for animated gifs",
+    "Author":"skttl",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"https://github.com/skttl/Wox.Plugin.Giphy",
+    "ExecuteFileName":"Wox.Plugin.Giphy.dll",
+    "IcoPath":"giphy.png"
+}
